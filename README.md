@@ -1,4 +1,3 @@
-Thoughts on Go+
-===
+# Thoughts on Go+
 
 TODO
